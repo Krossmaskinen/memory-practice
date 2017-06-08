@@ -4,3 +4,5 @@ node_modules
 dist
 typings
 custom_typings
+scripts/*
+scripts/
